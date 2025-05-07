@@ -1,0 +1,21 @@
+.menu {
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+.arriba {
+    height : 50px;
+    background-color: rgb(21, 255, 0);
+    text-align: center;
+
+    
+}
+
+.abajo {
+    height: 300px;
+    width: auto;
+    background-color: aqua;
+    text-align: center;
+}
